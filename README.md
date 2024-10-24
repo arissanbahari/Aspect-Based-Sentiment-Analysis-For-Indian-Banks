@@ -20,7 +20,7 @@ As such, this project analyses a dataset of Indian bank reviews and calculates h
 | ABSA_Cleaning_Reviews.ipynb | Notebook to clean the data. |
 | ABSA_Per_Bank_Sentiment_Analysis | Notebook on the aspect-based sentiment analysis steps and process |
 | [Which Indian Bank Should You Choose?](https://public.tableau.com/app/profile/arissa.noordina.bahari/viz/WhichIndianbankshouldyouchoose/Dashboard1) | Dashboard which visualises the results |
-| Datasets | Folder contaning all the datasets |
+
 
 ## Additional information
 
