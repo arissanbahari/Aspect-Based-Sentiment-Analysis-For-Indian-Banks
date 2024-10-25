@@ -4,7 +4,7 @@
 
 As part of the WQF7007 Natural Language Processing course during my masters, we were tasked with coming upwith an NLP-based project that could generate insights for businesses. As such, this project was chosen due to the relevance in everyday life for the average consumer.
 
-**What is the project brief?**
+## Project Brief
 
 Everyday, consumers are faced with the choice of which banking provider to go with. With the myriad of options out there, it can be difficult to narrow down a provider, considering most banks offer similar product and features. However, consumers are ultimately influenced by 3 aspects which shape their experience with the provider:
 - Account
